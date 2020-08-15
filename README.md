@@ -12,6 +12,8 @@
   - [fuadnafiz98](https://github.com/fuadnafiz98/cloud)
   - [Qazi Fahim Farhan](https://github.com/fahimfarhan/cloud-research-odyssey)
 
+### Redis cluster
+  - [Aryan Ahmed Anik (thearyanahmed)](https://github.com/thearyanahmed/redis-cluster)
 
 
 
